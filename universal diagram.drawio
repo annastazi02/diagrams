@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-08T11:39:29.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="ejdbi2l3mjvc88Uh8381" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T11:40:53.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="9xQ_owCZDlp29WwzVVwJ" version="12.2.2" type="github" pages="1">
   <diagram id="PTuiXg3LKWEgGaHr2Whp" name="Page-1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,10 +32,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SR8UItn_E_fKGA6fSKFd-4" value="WMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="350" y="1000" width="120" height="60" as="geometry"/>
+          <mxGeometry x="361" y="1000" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SR8UItn_E_fKGA6fSKFd-5" value="Mobile WMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="350" y="1120" width="120" height="60" as="geometry"/>
+          <mxGeometry x="361" y="1120" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SR8UItn_E_fKGA6fSKFd-6" value="Contracts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="990" y="660" width="120" height="60" as="geometry"/>
@@ -53,10 +53,10 @@
           <mxGeometry x="1090" y="390" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SR8UItn_E_fKGA6fSKFd-10" value="eGate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="550" y="1000" width="120" height="60" as="geometry"/>
+          <mxGeometry x="561.5" y="1000" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SR8UItn_E_fKGA6fSKFd-11" value="Monitoring" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1120" width="120" height="60" as="geometry"/>
+          <mxGeometry x="160" y="1120" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SR8UItn_E_fKGA6fSKFd-12" value="Planning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-237" y="1019" width="120" height="60" as="geometry"/>
@@ -85,11 +85,11 @@
         <mxCell id="SR8UItn_E_fKGA6fSKFd-19" value="S.S." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="330" y="250" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="SR8UItn_E_fKGA6fSKFd-20" value="OEM API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="185" y="1000" width="120" height="60" as="geometry"/>
+        <mxCell id="SR8UItn_E_fKGA6fSKFd-20" value="OEM API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1000" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SR8UItn_E_fKGA6fSKFd-21" value="Widget" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="562" y="1120" width="120" height="60" as="geometry"/>
+          <mxGeometry x="561.5" y="1120" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SR8UItn_E_fKGA6fSKFd-22" value="TMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-307" y="850" width="120" height="60" as="geometry"/>
