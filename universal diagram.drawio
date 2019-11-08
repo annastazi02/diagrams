@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-07T16:01:26.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="xf1ktd4hsz79yNBJgm3_" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T10:39:26.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="Px1kE1esPfdFi5jXcPop" version="12.2.2" type="github" pages="1">
   <diagram id="PTuiXg3LKWEgGaHr2Whp" name="Page-1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="550" y="1000" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SR8UItn_E_fKGA6fSKFd-11" value="Monitoring" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="-440" width="120" height="60" as="geometry"/>
+          <mxGeometry x="15" y="1174.5" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SR8UItn_E_fKGA6fSKFd-12" value="Planning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-237" y="1019" width="120" height="60" as="geometry"/>
@@ -74,7 +74,7 @@
           <mxGeometry x="185" y="1000" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SR8UItn_E_fKGA6fSKFd-21" value="Widget" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="-440" width="120" height="60" as="geometry"/>
+          <mxGeometry x="215" y="1174.5" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SR8UItn_E_fKGA6fSKFd-22" value="TMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-307" y="850" width="120" height="60" as="geometry"/>
@@ -335,16 +335,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7x3MDn5NO5UKp1_px_gG-50" value="layout reference" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-266" y="1660" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="7x3MDn5NO5UKp1_px_gG-51" value="car" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-266" y="1751" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="7x3MDn5NO5UKp1_px_gG-52" value="notifications" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-116" y="1751" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="7x3MDn5NO5UKp1_px_gG-53" value="docs(Template, Fill,Send)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="24" y="1751" width="120" height="60" as="geometry"/>
+          <mxGeometry x="15" y="1254.5" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="7x3MDn5NO5UKp1_px_gG-54" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
