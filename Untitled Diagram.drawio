@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T14:19:03.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="p4HwriMWxUZmjBl2CPat" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-01T14:20:01.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="RTAgFd5ddSP3kw3igRGy" version="12.9.6" type="github">
   <diagram id="qQWEQSTCm0qtHGcmOT5K" name="Page-1">
     <mxGraphModel dx="1773" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="fKSy154ImKtxsts-Qh9P-6" value="Trace Matrix&lt;b&gt;(Q.A)&lt;/b&gt;&amp;nbsp;&lt;br&gt;Scenario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-20" y="430" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fKSy154ImKtxsts-Qh9P-7" value="API Functions Tasks&amp;nbsp;&lt;b&gt;(Back End)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="fKSy154ImKtxsts-Qh9P-7" value="&lt;i&gt;API Functions&lt;/i&gt;.Tasks&amp;nbsp;&lt;b&gt;(Back End)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="290" y="430" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fKSy154ImKtxsts-Qh9P-8" value="&lt;b&gt;Architect&lt;/b&gt;&lt;br&gt;(discuss with&lt;b&gt; B.A&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: inherit ; text-align: left ; white-space: pre-wrap&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;the main attributes of entities)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
