@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-04-08T10:23:17.997Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="12.9.9" etag="UHSrFwM6l8xSq1isRxDa" type="github"><diagram id="tEwn2vSKxnQ72N7uJ7mi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-08T10:43:27.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="KHl6_Ec6sey9OsQ6E_pk" version="12.9.9" type="github">
+  <diagram id="tEwn2vSKxnQ72N7uJ7mi" name="Page-1">
+    <mxGraphModel dx="1186" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-1" value="&lt;b&gt;Показатели интенсивности&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-2" value="&lt;b&gt;Показатели эффективности использования площадей&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-3" value="&lt;b&gt;Показатели качества складского сервиса&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-4" value="&lt;b&gt;Показатели сохранности товаров и финансово-экономические показатели&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-5" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mfyQRgpdrOCg4J0YQUVd-1" target="mfyQRgpdrOCg4J0YQUVd-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="140" as="sourcePoint" />
+            <mxPoint x="40" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-6" value="" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="mfyQRgpdrOCg4J0YQUVd-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="320" as="sourcePoint" />
+            <mxPoint x="320" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-7" value="" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mfyQRgpdrOCg4J0YQUVd-18" target="mfyQRgpdrOCg4J0YQUVd-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="320" as="sourcePoint" />
+            <mxPoint x="590" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-8" value="" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="mfyQRgpdrOCg4J0YQUVd-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="360" as="sourcePoint" />
+            <mxPoint x="790" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-9" value="грузооборот склада" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-10" value="Удельный грузооборот" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-11" value="Коэффициент неравномерности загрузки склада" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-12" value="вместимость склада" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-13" value="полезная площадь" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-14" value="коэффициент загрузки склада" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-15" value="грузонапряженность склада&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-16" value="Доля &quot;совершенных&quot; заказов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-17" value="К-во ошибок комплектации&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-18" value="среднее время комплектации заказа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-19" value="себестоимость хранения запасов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="140" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-20" value="оборачиваемость запасов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-21" value="коэффициент неликвидных товаров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="250" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-22" value="средний товарный запас" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="300" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfyQRgpdrOCg4J0YQUVd-23" value="производительность труда работников" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="350" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
