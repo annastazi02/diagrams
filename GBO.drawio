@@ -1,1 +1,203 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T18:26:01.541Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.6.0" etag="QkQCm7X6R4rEZT_xME5V" type="github"><diagram id="IpEldo0hOvOmWlYe4UVW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-15T06:30:33.758Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="bOUme9ezaBUgs3lDbkTy" version="14.6.0" type="github">
+  <diagram id="IpEldo0hOvOmWlYe4UVW" name="Page-1">
+    <mxGraphModel dx="2085" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-1" value="GBO documents" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-2" value="1.Email with ref of documents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-3" value="2.Estafeta document storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-6" value="3.Vehicle (documents)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-7" value="on confirmation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="210" y="50" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-8" value="Confirmed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="530" y="50" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-1" target="LOOV1fsIFmzHFL0M4GCv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="220" as="sourcePoint" />
+            <mxPoint x="260" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-10" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-2" target="LOOV1fsIFmzHFL0M4GCv-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179" y="140" as="sourcePoint" />
+            <mxPoint x="260" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-14" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LOOV1fsIFmzHFL0M4GCv-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="463" y="120" as="sourcePoint" />
+            <mxPoint x="410" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="463" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-15" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.572;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-8" target="LOOV1fsIFmzHFL0M4GCv-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="220" as="sourcePoint" />
+            <mxPoint x="660" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="729" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339.04" y="149.41" as="sourcePoint" />
+            <mxPoint x="370" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-17" value="parsed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-18" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LOOV1fsIFmzHFL0M4GCv-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="145" as="sourcePoint" />
+            <mxPoint x="500" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-19" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-7" target="LOOV1fsIFmzHFL0M4GCv-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="220" as="sourcePoint" />
+            <mxPoint x="500" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-22" value="VIN and data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="530" y="135" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-23" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-3" target="LOOV1fsIFmzHFL0M4GCv-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="220" as="sourcePoint" />
+            <mxPoint x="400" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-24" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-22" target="LOOV1fsIFmzHFL0M4GCv-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="220" as="sourcePoint" />
+            <mxPoint x="400" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-25" value="check document add atributes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="526.25" y="280" width="107.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-26" value="Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-27" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LOOV1fsIFmzHFL0M4GCv-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="366" as="sourcePoint" />
+            <mxPoint x="400" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-28" value="" style="endArrow=classic;html=1;exitX=0.567;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-3" target="LOOV1fsIFmzHFL0M4GCv-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="210" as="sourcePoint" />
+            <mxPoint x="438" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-32" value="Confirmed" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-33" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="LOOV1fsIFmzHFL0M4GCv-32" parent="1" target="LOOV1fsIFmzHFL0M4GCv-6">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="860" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-34" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="LOOV1fsIFmzHFL0M4GCv-32" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="720" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-35" value="Notification &quot;Resend the documents&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-36" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-25" target="LOOV1fsIFmzHFL0M4GCv-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="200" as="sourcePoint" />
+            <mxPoint x="710" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-37" value="4.DMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-38" value="stored for 30 days" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-39" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LOOV1fsIFmzHFL0M4GCv-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="145" as="sourcePoint" />
+            <mxPoint x="760" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-40" value="Canceled" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="790" y="50" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-41" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-6" target="LOOV1fsIFmzHFL0M4GCv-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="290" as="sourcePoint" />
+            <mxPoint x="800" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-42" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.598;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-40" target="LOOV1fsIFmzHFL0M4GCv-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="290" as="sourcePoint" />
+            <mxPoint x="750" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-43" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-38" target="LOOV1fsIFmzHFL0M4GCv-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="290" as="sourcePoint" />
+            <mxPoint x="890" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-47" value="send answer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="880" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-48" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-6" target="LOOV1fsIFmzHFL0M4GCv-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="160" as="sourcePoint" />
+            <mxPoint x="890" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOOV1fsIFmzHFL0M4GCv-49" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOOV1fsIFmzHFL0M4GCv-47" target="LOOV1fsIFmzHFL0M4GCv-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="160" as="sourcePoint" />
+            <mxPoint x="890" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1110" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
